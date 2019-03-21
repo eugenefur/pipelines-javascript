@@ -1,3 +1,6 @@
+[![Build Status](https://dev.azure.com/eugfstm/devops sandbox/_apis/build/status/eugenefur.pipelines-javascript?branchName=master)](https://dev.azure.com/eugfstm/devops sandbox/_build/latest?definitionId=1&branchName=master)
+
+
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
